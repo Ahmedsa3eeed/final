@@ -6,7 +6,6 @@ sys.path.append(r'Finalproject.py')
 import Finalproject as fp
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
 import matplotlib.pyplot as plt
 import warnings
